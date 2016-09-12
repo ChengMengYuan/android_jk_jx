@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netoutin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\netoutin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\boxes_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\boxes_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_scan.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\activity_qr_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]

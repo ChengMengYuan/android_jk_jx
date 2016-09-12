@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="79c23ce93beec35cb1e25ffd539456d4cdcb598e">
+        <dex dex="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8625fb7fbd7128551e00ee45320bec909b9dcbdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android_jk2(jx)\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="acfbcde76c49e15a1c4bdfaf56ce599e6b7501c3">
+        <dex dex="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_2e6b7955c9a93b350445f796b09f419281fdc694.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="809f4b185962a826b657e892420b5fcd7810c848">
+        <dex dex="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\pre-dexed\debug\instant-run_910e5ff0500620429f4f0a52052330cac4abb123.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android_jk2(jx)\app\libs\UhfLib.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="46478e721a696871965a65575598026241f59304">
+        <dex dex="C:\Users\Administrator\Desktop\android_jk2(jx)\app\build\intermediates\pre-dexed\debug\UhfLib_52d51972de17b3fa65de191e20682fce96804ea4.jar" />
+    </item>
+
+</items>

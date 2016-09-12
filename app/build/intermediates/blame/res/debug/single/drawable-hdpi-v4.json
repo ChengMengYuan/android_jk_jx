@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seticon_saosao.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\seticon_saosao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\out.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\out.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_jk2(jx)\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    }
+]
